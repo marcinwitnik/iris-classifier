@@ -182,7 +182,7 @@ python main.py
 
 ---
 
-##<details>
+<details>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/camera.png" height="22px"/> Podgląd działania (kliknij, aby rozwinąć)</summary>
 
 Poniżej przykładowe wyniki działania programu:
