@@ -14,8 +14,8 @@ Ten projekt to prosty i funkcjonalny **klasyfikator gatunków kwiatów Iris** st
   - [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/doc/) – przygotowanie danych wejściowych do predykcji  
   - [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/) – przekształcenie zbioru danych na DataFrame  
   - [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/stable/users/index.html) – wizualizacja dokładności i strat modelu  
-  - `datetime` – generowanie unikalnych ścieżek logów  
-  - `os` – obsługa logów i katalogów (pośrednio przez TensorFlow)  
+  - [![datetime](https://img.shields.io/badge/datetime-4B8BBE?style=flat&logoColor=white)](https://docs.python.org/3/library/datetime.html) – generowanie unikalnych ścieżek logów  
+  - [![os](https://img.shields.io/badge/os-306998?style=flat&logoColor=white)](https://docs.python.org/3/library/os.html) – obsługa logów i katalogów (pośrednio przez TensorFlow)  
 
 ---
 <details>
