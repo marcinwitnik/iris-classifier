@@ -6,10 +6,10 @@ Ten projekt to prosty i funkcjonalny **klasyfikator gatunków kwiatów Iris** st
 
 ## <img src="https://img.icons8.com/pastel-glyph/64/FFFFFF/code--v2.png" height="22px" /> Technologie i środowisko
 
-- **Język:** Python  
-- **Środowisko IDE:** PyCharm  
+- **Język:**  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/) 
+- **Środowisko IDE:** [![PyCharm](https://img.shields.io/badge/PyCharm-009873?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
 - **Biblioteki:**  
-  - `TensorFlow` – budowa i trening modelu neuronowego  
+  - `[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn)` – budowa i trening modelu neuronowego  
   - `scikit-learn` – ładowanie zbioru danych Iris, podział na zbiór treningowy i testowy, kodowanie etykiet  
   - `NumPy` – przygotowanie danych wejściowych do predykcji  
   - `pandas` – przekształcenie zbioru danych na DataFrame  
