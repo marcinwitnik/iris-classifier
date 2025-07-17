@@ -19,7 +19,7 @@ Ten projekt to prosty i funkcjonalny **klasyfikator gatunków kwiatów Iris** st
 
 ---
 <details>
-##  <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/pin.png" height="22px"/> Funkcje programu (kliknij, aby rozwinąć)</summary>
+  <summary>##<img src="https://img.icons8.com/ios-filled/50/FFFFFF/pin.png" height="22px"/> Funkcje programu (kliknij, aby rozwinąć)</summary>
 
 ---
 
