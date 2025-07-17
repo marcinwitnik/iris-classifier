@@ -10,10 +10,10 @@ Ten projekt to prosty i funkcjonalny **klasyfikator gatunków kwiatów Iris** st
 - **Środowisko IDE:** [![PyCharm](https://img.shields.io/badge/PyCharm-009873?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
 - **Biblioteki:**  
   - [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn) – budowa i trening modelu neuronowego  
-  - `scikit-learn` – ładowanie zbioru danych Iris, podział na zbiór treningowy i testowy, kodowanie etykiet  
-  - `NumPy` – przygotowanie danych wejściowych do predykcji  
-  - `pandas` – przekształcenie zbioru danych na DataFrame  
-  - `matplotlib` – wizualizacja dokładności i strat modelu  
+  - [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/user_guide.html) – ładowanie zbioru danych Iris, podział na zbiór treningowy i testowy, kodowanie etykiet  
+  - [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/doc/) – przygotowanie danych wejściowych do predykcji  
+  - [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/) – przekształcenie zbioru danych na DataFrame  
+  - [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/stable/users/index.html) – wizualizacja dokładności i strat modelu  
   - `datetime` – generowanie unikalnych ścieżek logów  
   - `os` – obsługa logów i katalogów (pośrednio przez TensorFlow)  
 
